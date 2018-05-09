@@ -1372,19 +1372,104 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qRx5J41U83 {
-  background-image: url("../../../assets/images/02.jpg");
+.cid-qRx9YKQEC8 {
+  background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-qRx5J41U83 .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
+.cid-qRx9YKQEC8 h1 {
+  color: #616161;
 }
-.cid-qRx5J41U83 .input-group-btn {
-  justify-content: center;
+.cid-qRx9YKQEC8 h2,
+.cid-qRx9YKQEC8 h3,
+.cid-qRx9YKQEC8 p {
+  color: #767676;
 }
-@media (min-width: 768px) {
-  .cid-qRx5J41U83 .content-container {
-    padding-right: 5rem;
+.cid-qRx9YKQEC8 .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qRxa7XTELx {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qRxa7XTELx .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-qRxa7XTELx .number-wrap {
+  color: #565656;
+  border-color: rgba(255, 255, 255, 0.15);
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px 13px 10px;
+  margin: 0;
+  min-width: 118px;
+  border-radius: 2px;
+  max-width: 100%;
+}
+.cid-qRxa7XTELx .number {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  text-transform: none;
+  letter-spacing: -2px;
+  word-spacing: 0;
+  line-height: 1.3;
+  color: #28262b;
+}
+.cid-qRxa7XTELx .period {
+  display: block;
+  padding-top: 2px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cid-qRxa7XTELx .dot {
+  position: absolute;
+  top: -10px;
+  right: -1em;
+  width: 1em;
+  display: block;
+  height: 83%;
+  overflow: hidden;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 89.65px;
+  text-transform: none;
+  letter-spacing: 0;
+  word-spacing: 0;
+  color: #28262b;
+}
+.cid-qRxa7XTELx .countdown-cont {
+  max-width: 700px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qRxa7XTELx .dot {
+    display: none;
+  }
+}
+@media (max-width: 543px) {
+  .cid-qRxa7XTELx .number-wrap {
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 550px) {
+  .cid-qRxa7XTELx .col-xs-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qRxa7XTELx .number-wrap {
+    min-width: auto;
+  }
+}
+@media (max-width: 440px) {
+  .cid-qRxa7XTELx .number,
+  .cid-qRxa7XTELx .dot {
+    font-size: 40px;
+  }
+}
+@media (max-width: 380px) {
+  .cid-qRxa7XTELx .period {
+    font-size: 0.8rem;
   }
 }
