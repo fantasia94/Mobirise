@@ -2,7 +2,9 @@
 
 
 
-
+.btn {
+white-space: normal !important;
+}
 
 body {
   font-style: normal;
